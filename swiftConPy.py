@@ -5,8 +5,8 @@ from tkinter import *
 from tkinter.filedialog import askopenfilename
 
 
-user = 'satyateja27'
-key = 'satya@27'
+user = 'Hemu12'
+key = 'Hemu@12'
 top = tkinter.Tk()
 file_var = tkinter.StringVar(top, name='file_var')
 command = lambda: openFile(file_var)
